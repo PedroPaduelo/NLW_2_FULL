@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseURL: 'https://3333-b9e91e00-a710-40fe-9909-a036bdbd6cc1.ws-us02.gitpod.io',
+    baseURL: 'https://3333-e4ab71a3-83c5-4e43-bcae-ea43f15c6d4f.ws-us02.gitpod.io',
 })
 
 export default api;
