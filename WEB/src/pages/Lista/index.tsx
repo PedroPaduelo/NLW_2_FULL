@@ -49,6 +49,8 @@ function List() {
                             {value: 'Filosofia', label: 'Filosofia'}
                         ]}
                     />
+
+                    asdfasdf
                     <Select 
                         name="week_day" 
                         label="Dia da semanda" 
