@@ -20,7 +20,7 @@ function ListProffy(){
     const [filters , setFilters] = useState(false);
 
     const [teachers, setTeacher] = useState([]);
-    const [favoritos, setFavoritos] = useState<number>('');
+    const [favoritos, setFavoritos] = useState<number[]>([]);
     
     const [subject, setSubject] = useState('');
     const [week_day, setWeek_day] = useState('');
