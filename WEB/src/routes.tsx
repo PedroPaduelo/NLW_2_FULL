@@ -4,8 +4,6 @@ import Landing from './pages/Landing';
 import List from './pages/Lista';
 import Forme from './pages/Forme_Cad';
 
-
-
 function Routes(){
     return(
         <BrowserRouter>
@@ -15,6 +13,5 @@ function Routes(){
         </BrowserRouter>
     )
 }
-
 
 export default Routes;
