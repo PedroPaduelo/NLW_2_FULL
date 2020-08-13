@@ -32,6 +32,8 @@ Ainda estamos no MVP por isso estamos apenas disponibilizando o número do profe
 </p>
 
 
+<br></br>
+
 
 ## Funcionalidades
 
@@ -45,16 +47,19 @@ Ainda estamos no MVP por isso estamos apenas disponibilizando o número do profe
 - Listar as aulas
   - Filtar por matérias, dia da semana e horário
 
+<br></br>
 
 ## Layout da Aplicação
 
-
+<br></br>
 
 ## Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/) versão 12.18.3 LTS 
+<br></br>
 :warning: [NPM](https://nodejs.org/en/download/) versão ^6.14.7 
 
+<br></br>
 
 ## Como rodar a aplicação :arrow_forward:
 
@@ -99,8 +104,7 @@ $ expo start
 
 feito isso o mobiel estara rodando no expo so precisara de ler o QRcod que sera gerado no terminal 
 
-
-
+<br></br>
 
 ## Linguagens e libs utilizadas :books:
 
@@ -118,6 +122,7 @@ feito isso o mobiel estara rodando no expo so precisara de ler o QRcod que sera 
 - [Knex ](https://www.npmjs.com/package/axios): versão ^0.21.3
 - [Sqlite3 ](https://www.npmjs.com/package/axios): versão ^5.0.0
 
+<br></br>
 
 ### Linguagens
 - [Typescript ](https://www.npmjs.com/package/typescript): versão ~3.7.2 
